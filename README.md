@@ -35,8 +35,6 @@ Este paso solo guarda la carpeta del proyecto en tu ordenador.
     ```
 * **Si no usas Git:** Pulsa el botón verde **"Code"** -> **"Download ZIP"** y descomprímelo.
 
-*(Nota: En este punto solo tienes los archivos, el juego aún no está funcionando).*
-
 ### PASO 2: Entrar en la carpeta con la consola
 No basta con abrir la carpeta visualmente, debes abrir la terminal **dentro** de ella:
 
@@ -46,7 +44,7 @@ No basta con abrir la carpeta visualmente, debes abrir la terminal **dentro** de
 4.  Se abrirá una ventana negra (Símbolo del sistema).
 
 ### PASO 3: Ejecutar el juego
-Ahora que estás en la ventana negra dentro de la carpeta, escribe el comando mágico para iniciar el programa:
+Ahora que estás en la ventana negra dentro de la carpeta, escribe el comando para iniciar el programa:
 
 ```bash
 python main.py
