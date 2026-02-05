@@ -12,7 +12,7 @@ Se trata de una implementación del **juego del 21** utilizando el paradigma de 
 - Consolidar el uso de estructuras de control y librerías estándar en **Python**.
 
 ## 🛠️ Tecnologías utilizadas
-- **Python 3.x**
+- **Python
 
 ## 📂 Estructura del Proyecto
 El programa se organiza en las siguientes clases:
